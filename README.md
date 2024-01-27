@@ -1,5 +1,5 @@
-# Efficiency_Tutorial
-This repository, 'Efficiency_Tutorial', provides comprehensive tutorials on advanced efficiency techniques in deep learning, such as fine-tuning with QLoRA utilizing PEFT and leveraging Flash Attention, all demonstrated through the Mistral 7B.
+# LLM_Efficiency_Tutorial
+This repository, 'LLM_Efficiency_Tutorial', provides comprehensive tutorials on advanced efficiency techniques in deep learning, such as fine-tuning with QLoRA utilizing PEFT and leveraging Flash Attention, all demonstrated through the Mistral 7B.
 
 ## Overview
 Welcome to the 'Efficiency_Tutorial' repository, your comprehensive guide to mastering advanced efficiency techniques in deep learning. This tutorial is designed to enhance your understanding of state-of-the-art methods like QLoRA, LoRA, and Flash Attention, utilizing the robust Mistral model as our base. By delving into this tutorial, you'll gain valuable insights and practical knowledge that will elevate your skills in the field.
